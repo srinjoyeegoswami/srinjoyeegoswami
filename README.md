@@ -1,8 +1,6 @@
-## Hi there 👋
+## Hi there 👋 Myself  Srinjoyee Goswami
 
-# Srinjoyee Goswami
-
-Computer Science undergraduate focused on frontend development, API integrations, and open-source software.
+Computer Science undergraduate focused on frontend development, API integrations, and open-source softwares.
 
 ---
 
